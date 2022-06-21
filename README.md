@@ -1,4 +1,4 @@
-# **Nuala G King - Portfolio Website**
+# **Rhiannon McNulty - Portfolio Website**
 
 This site is a portfolio website showcasing the work and skills of a single person. This site is intended to be designed and developed to showcase the skills of said person.
 
